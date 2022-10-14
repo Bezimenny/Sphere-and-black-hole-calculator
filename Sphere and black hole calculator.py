@@ -36,3 +36,5 @@ elif onumber <= 2:
 
 print("It'd weight " + str(allmass) + " kg.")
 print("Black hole made from that sphere would have a radius of " + str(blackhole) + "m.")
+
+# there is a possibility it's all wrong but oh well
